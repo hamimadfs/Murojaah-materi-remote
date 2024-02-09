@@ -1,3 +1,4 @@
 ini file untuk mengulang materi remote dari github ke lokal
 terus ini kita tambahkan untuk mencoba gimana kalau seandainya ada perubahan dari remote nya
 dan ini kita tambahkan untuk mencoba bagaimana kalau seandainya perubahannya dari lokal
+dibaris baru ini kita ketik sekarang jam setengah delapan
